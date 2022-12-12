@@ -7,7 +7,6 @@ I'm a Senior Principal Engineer who started creating content on MuleSoft and Dat
 - 👯 I’m looking to collaborate on DataWeave Puzzles
 - 💬 Ask me about any DataWeave Puzzles. 
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/shyam-raj-prasad/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-- 😄 Pronouns: He
 - ⚡ Fun fact: Love to play with my daughter Dhrisha
 
 
