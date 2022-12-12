@@ -6,7 +6,7 @@ I'm a Senior Principal Engineer who started creating content on MuleSoft and Dat
 - 🌱 I’m currently learning MuleSoft and DataWeve.
 - 👯 I’m looking to collaborate on DataWeave Puzzles
 - 💬 Ask me about any DataWeave Puzzles. 
-- 📫 How to reach me: https://www.linkedin.com/in/shyam-raj-prasad/
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/shyam-raj-prasad/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love to play with my daughter Dhrisha
 
@@ -16,6 +16,8 @@ I'm a Senior Principal Engineer who started creating content on MuleSoft and Dat
 - Senior Principal Engineer at [Tricon Infotech](https://www.triconinfotech.com/)
 - MuleSoft Leader at [Patna](https://meetups.mulesoft.com/patna/)
 - MuleSoft Mentor
+- Certified MuleSoft Developer and Architect 
+- Top contriubtors of [MuleSoft Help Forum](https://help.mulesoft.com/s/forum)
 
 ### Follow me 👇
 
@@ -23,7 +25,7 @@ I'm a Senior Principal Engineer who started creating content on MuleSoft and Dat
   <a href="https://twitter.com/shyamrajprasad"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/shyamrajpd/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-## 📝 Latest Meetup Speakers
+## 📝 Latest MuleSoft Meetup delivered as a speaker
 
 <!-- BLOG:START -->
 - [Shopify Integration With Mulesoft!](https://meetups.mulesoft.com/events/details/mulesoft-new-york-city-presents-mulesoft-shopify-integration/)
@@ -46,6 +48,7 @@ I'm a Senior Principal Engineer who started creating content on MuleSoft and Dat
 ### DataWeave
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=dataweave-fun&theme=jolly)](https://github.com/shyamrajprasad/dataweave-fun)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=dataweave-analytics-library&theme=jolly)](https://github.com/shyamrajprasad/dataweave-analytics-library)
 
 ## 🧐 MuleSoft Repos
 
