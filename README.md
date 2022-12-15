@@ -1,13 +1,26 @@
 ### Hi I'm Shyam Raj Prasad! 👋
 
-I'm a Senior Principal Engineer who started creating content on MuleSoft and DataWeave!
+A passionate Java & MuleSoft developer from India. 
 
-- 🔭 I’m currently working on Spring Boot, Apache Camel and MuleSoft.
-- 🌱 I’m currently learning MuleSoft and DataWeve.
-- 👯 I’m looking to collaborate on DataWeave Puzzles
-- 💬 Ask me about any DataWeave Puzzles. 
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/shyam-raj-prasad/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-- ⚡ Fun fact: Love to play with my daughter Dhrisha
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamrajprasad&label=Profile%20views&color=0e75b6&style=flat" alt="shyamrajprasad" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyamrajprasad" alt="shyamrajprasad" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/shyamrajprasad" target="blank"><img src="https://img.shields.io/twitter/follow/shyamrajprasad?logo=twitter&style=for-the-badge" alt="shyamrajprasad" /></a> </p>
+
+- 🔭 I’m currently working on **eCommerce & Order Management API**
+
+- 🌱 I’m currently learning **Apache Camel & MuleSoft**
+
+- 👯 I’m looking to collaborate on **DataWeave Fun**
+
+- 🤝 I’m looking for help with **DataWeave Fun**
+
+- 📝 I regularly write articles on [shyamrajprasad.medium.com](shyamrajprasad.medium.com)
+
+- 💬 Ask me about **DataWeave, MuleSoft, Java & Spring Framework**
+
+- ⚡ Fun fact **I think I am shy person.**
 
 
 ## 👋 About me
@@ -18,11 +31,14 @@ I'm a Senior Principal Engineer who started creating content on MuleSoft and Dat
 - Certified MuleSoft Developer and Architect 
 - Top contriubtors of [MuleSoft Help Forum](https://help.mulesoft.com/s/forum)
 
-### Follow me 👇
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shyamrajprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyamrajprasad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shyam-raj-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam-raj-prasad" height="30" width="40" /></a>
+<a href="https://medium.com/@shyamrajprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shyamrajprasad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shyamrajprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shyamrajprasad" height="30" width="40" /></a>
+</p>
 
-  <a href="https://www.linkedin.com/in/shyam-raj-prasad/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/shyamrajprasad"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shyamrajpd/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ## 📝 Latest MuleSoft Meetup delivered as a speaker
 
@@ -35,14 +51,14 @@ I'm a Senior Principal Engineer who started creating content on MuleSoft and Dat
 
 <!-- BLOG:END -->
 
-## ⭐️ GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <a href="https://github.com/shyamrajprasad">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyamrajprasad&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shyamrajprasad&theme=midnight-purple&layout=compact&langs_count=6"/>
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyamrajprasad&show_icons=true&locale=en&layout=compact" alt="shyamrajprasad" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamrajprasad&show_icons=true&locale=en" alt="shyamrajprasad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamrajprasad&" alt="shyamrajprasad" /></p>
 
 ### DataWeave
 
@@ -61,6 +77,7 @@ I'm a Senior Principal Engineer who started creating content on MuleSoft and Dat
 ### CI/CD pipelines
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=hello-world-github-action&theme=jolly)](https://github.com/shyamrajprasad/hello-world-github-action)
+
 
 
 
