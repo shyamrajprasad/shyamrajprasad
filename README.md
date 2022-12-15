@@ -8,9 +8,9 @@ A passionate Java & MuleSoft developer from India.
 
 <p align="left"> <a href="https://twitter.com/shyamrajprasad" target="blank"><img src="https://img.shields.io/twitter/follow/shyamrajprasad?logo=twitter&style=for-the-badge" alt="shyamrajprasad" /></a> </p>
 
-- 🔭 I’m currently working on **eCommerce & Order Management API**
+- 🔭 I’m currently working on **Spring Boot, Apache Camel & MuleSoft**
 
-- 🌱 I’m currently learning **Apache Camel & MuleSoft**
+- 🌱 I’m currently learning **Apache Camel**
 
 - 👯 I’m looking to collaborate on **DataWeave Fun**
 
