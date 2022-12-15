@@ -54,6 +54,16 @@ A passionate Java & MuleSoft developer from India.
 ## Medium Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DataWeave Object Modules: Examples and Function Definitions](https://medium.com/another-integration-blog/dataweave-object-modules-examples-and-function-definitions-6064b4ffeddb?source=rss-4ca950c1fb60------2)
+- [DataWeave Array Modules Example With Function Definition](https://medium.com/another-integration-blog/dataweave-array-modules-example-with-function-definition-f8e488feeb33?source=rss-4ca950c1fb60------2)
+- [DataWeave: Common and Uncommon Elements in Array](https://shyamrajprasad.medium.com/dataweave-common-and-uncommon-elements-in-array-bb58597b1cad?source=rss-4ca950c1fb60------2)
+- [Custom Validation in Mule 4 Using Mule SDK](https://medium.com/another-integration-blog/custom-validation-in-mule-4-using-mule-sdk-45bf887fb362?source=rss-4ca950c1fb60------2)
+- [Spring Module Integration In a Mule Application](https://medium.com/another-integration-blog/spring-module-integration-in-a-mule-application-85d0fc38f555?source=rss-4ca950c1fb60------2)
+- [Flyway Integration in a Mule Application](https://medium.com/another-integration-blog/flyway-integration-in-mule-application-d1a33b96c896?source=rss-4ca950c1fb60------2)
+- [MuleSoft Anypoint Flex Gateway](https://shyamrajprasad.medium.com/mulesoft-anypoint-flex-gateway-fe16b643f959?source=rss-4ca950c1fb60------2)
+- [Tracing Module In MuleSoft Application](https://shyamrajprasad.medium.com/tracing-module-in-mulesoft-application-2f2cbafe43d5?source=rss-4ca950c1fb60------2)
+- [Shopify Connector — Mule 4](https://shyamrajprasad.medium.com/shopify-connector-mule-4-2b4bb122376c?source=rss-4ca950c1fb60------2)
+- [Spring Module Integration In Mule Application](https://shyamrajprasad.medium.com/spring-module-integration-in-mule-application-8de5a08303e6?source=rss-4ca950c1fb60------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
