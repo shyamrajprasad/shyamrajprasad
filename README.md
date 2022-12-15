@@ -16,7 +16,7 @@ A passionate Java & MuleSoft developer from India.
 
 - 🤝 I’m looking for help with **DataWeave Fun**
 
-- 📝 I regularly write articles on [shyamrajprasad.medium.com](shyamrajprasad.medium.com)
+- 📝 I regularly write articles on [medium](https://shyamrajprasad.medium.com)
 
 - 💬 Ask me about **DataWeave, MuleSoft, Java & Spring Framework**
 
