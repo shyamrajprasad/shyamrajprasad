@@ -67,21 +67,21 @@ A passionate Java & MuleSoft developer from India.
 
 ### DataWeave
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=dataweave-fun&theme=jolly)](https://github.com/shyamrajprasad/dataweave-fun)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=dataweave-analytics-library&theme=jolly)](https://github.com/shyamrajprasad/dataweave-analytics-library)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=dataweave-fun&theme=cobalt)](https://github.com/shyamrajprasad/dataweave-fun)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=dataweave-analytics-library&theme=cobalt)](https://github.com/shyamrajprasad/dataweave-analytics-library)
 
 ## 🧐 MuleSoft Repos
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mule-shopify-integration&theme=jolly)](https://github.com/shyamrajprasad/mule-shopify-integration)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mulesoft-liquibase-integration&theme=jolly)](https://github.com/shyamrajprasad/mulesoft-liquibase-integration)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mulesoft-flyway-integration&theme=jolly)](https://github.com/shyamrajprasad/mulesoft-flyway-integration)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mulesoft-spring-liquibase-integration&theme=jolly)](https://github.com/shyamrajprasad/mulesoft-spring-liquibase-integration)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mule-currency-validator&theme=jolly)](https://github.com/shyamrajprasad/mule-currency-validator)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mule-spring-integration&theme=jolly)](https://github.com/shyamrajprasad/mule-spring-integration)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mulesoft-tracing-module-integration&theme=jolly)](https://github.com/shyamrajprasad/mulesoft-tracing-module-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mule-shopify-integration&theme=cobalt)](https://github.com/shyamrajprasad/mule-shopify-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mulesoft-liquibase-integration&theme=cobalt)](https://github.com/shyamrajprasad/mulesoft-liquibase-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mulesoft-flyway-integration&theme=cobalt)](https://github.com/shyamrajprasad/mulesoft-flyway-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mulesoft-spring-liquibase-integration&theme=cobalt)](https://github.com/shyamrajprasad/mulesoft-spring-liquibase-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mule-currency-validator&theme=cobalt)](https://github.com/shyamrajprasad/mule-currency-validator)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mule-spring-integration&theme=cobalt)](https://github.com/shyamrajprasad/mule-spring-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=mulesoft-tracing-module-integration&theme=cobalt)](https://github.com/shyamrajprasad/mulesoft-tracing-module-integration)
 ### CI/CD pipelines
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=hello-world-github-action&theme=jolly)](https://github.com/shyamrajprasad/hello-world-github-action)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=hello-world-github-action&theme=cobalt)](https://github.com/shyamrajprasad/hello-world-github-action)
 
 
 
