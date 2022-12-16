@@ -12,9 +12,9 @@ A passionate Java & MuleSoft developer from India.
 
 - 🌱 I’m currently learning **Apache Camel**
 
-- 👯 I’m looking to collaborate on **DataWeave Fun**
+- 👯 I’m looking to collaborate on **DataWeave Puzzles and Scripts**
 
-- 🤝 I’m looking for help with **DataWeave Fun**
+- 🤝 I’m looking for help with **DataWeave Puzzles and Scripts**
 
 - 📝 I regularly write articles on [medium](https://shyamrajprasad.medium.com)
 
