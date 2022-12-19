@@ -75,7 +75,7 @@ A passionate Java & MuleSoft developer from India.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamrajprasad&" alt="shyamrajprasad" /></p>
 
-### DataWeave
+### DataWeave Repos (Visual Studio)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=dataweave-fun&theme=cobalt)](https://github.com/shyamrajprasad/dataweave-fun)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=shyamrajprasad&repo=dataweave-analytics-library&theme=cobalt)](https://github.com/shyamrajprasad/dataweave-analytics-library)
