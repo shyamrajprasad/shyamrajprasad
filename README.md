@@ -36,7 +36,7 @@ A passionate Java & MuleSoft developer from India.
 <a href="https://twitter.com/shyamrajprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyamrajprasad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shyam-raj-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam-raj-prasad" height="30" width="40" /></a>
 <a href="https://medium.com/@shyamrajprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shyamrajprasad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shyamrajprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shyamrajprasad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shyamrajprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shyamrajprasad" height="30" width="40" /></a>
 </p>
 
 
