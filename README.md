@@ -20,7 +20,7 @@ A passionate Java & MuleSoft developer from India.
 
 - 💬 Ask me about **DataWeave, MuleSoft, Java & Spring Framework**
 
-- ⚡ Fun fact **I am shy person.**
+- ⚡ Fun fact **I love to share knowledge with self learning.**
 
 
 ## 👋 About me
