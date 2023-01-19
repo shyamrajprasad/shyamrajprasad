@@ -46,7 +46,7 @@ A passionate Java & MuleSoft developer from India.
 - [Shopify Integration With Mulesoft!](https://meetups.mulesoft.com/events/details/mulesoft-new-york-city-presents-mulesoft-shopify-integration/)
 - [Flyway Integration With Mulesoft!](https://meetups.mulesoft.com/events/details/mulesoft-coimbatore-presents-flyway-and-mulesoft-integration/)
 - [Liquibase Integration With Mulesoft!](https://meetups.mulesoft.com/events/details/mulesoft-mysore-presents-mulesoft-integration-with-liquibase/)
-- [DataWeave Extension Library!](https://meetups.mulesoft.com/events/details/mulesoft-patna-presents-dataweave-library-extension/)
+- [DataWeave Extension Library!](https://meetups.mulesoft.com/events/details/mulesoft-guwahati-presents-guwahati-virtual-meetup-13-dataweave-extension-library/)
 
 
 <!-- BLOG:END -->
