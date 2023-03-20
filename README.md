@@ -10,11 +10,7 @@ A passionate Java & MuleSoft developer from India.
 
 - 🔭 I’m currently working on **Spring Boot, Apache Camel & MuleSoft**
 
-- 🌱 I’m currently learning **Apache Camel**
-
-- 👯 I’m looking to collaborate on **DataWeave Puzzles and Scripts**
-
-- 🤝 I’m looking for help with **DataWeave Puzzles and Scripts**
+- 🌱 I’m currently exploring **Apache Camel 4**
 
 - 📝 I regularly write articles on [medium](https://shyamrajprasad.medium.com)
 
